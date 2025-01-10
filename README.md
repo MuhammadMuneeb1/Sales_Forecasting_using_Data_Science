@@ -1,6 +1,4 @@
-# UNDERSTAND THE PROBLEM STATEMENT AND BUSINESS CASE
-
-![image](https://user-images.githubusercontent.com/34706028/142856456-454cb739-eb80-494e-a771-828ce247d625.png)
+# UNDERSTANDING THE PROBLEM STATEMENT AND BUSINESS CASE
 
 ![image](https://user-images.githubusercontent.com/34706028/142856481-9ee960ac-d5ea-44a2-ac80-1a44e50859be.png)
 
